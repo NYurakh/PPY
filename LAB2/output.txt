@@ -1,0 +1,26 @@
+Student Number: s28403
+Original List: [1, 2, 20, 10]
+Original Tuple: (1, 2, 3)
+Original Set: {1, 2, 3}
+Original Dictionary: {1: 2, 2: 20, 3: 10, 11: 121}
+Manipulated List: [1, 2, 20, 10]
+Manipulated Tuple: (1, 2, 3)
+Union of Set: {1, 2, 3, 10, 11, 12}
+Intersection of Set: {1, 2}
+Difference of Set: {3}
+Updated Dictionary: {1: 2, 2: 20, 3: 10, 11: 121}
+List to Tuple: (1, 2, 20, 10)
+List to Set: {1, 2, 10, 20}
+List to Dictionary: {0: 1, 1: 2, 2: 20, 3: 10}
+Tuple to List: [1, 2, 3]
+Tuple to Set: {1, 2, 3}
+Tuple to Dictionary: {0: 1, 1: 2, 2: 3}
+Set to List: [1, 2, 3]
+Set to Tuple: (1, 2, 3)
+Set to Dictionary: {0: 1, 1: 2, 2: 3}
+Dictionary to List: [2, 20, 10, 121]
+Dictionary to Tuple: (2, 20, 10, 121)
+Dictionary to Set: {121, 2, 10, 20}
+Numer lines: 23
+Number ints: 134
+Sum ints: 192
